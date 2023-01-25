@@ -1,0 +1,204 @@
+.navbar
+{
+    flex-direction: column;
+    height: 120px;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    
+    
+}
+
+ul
+{
+  
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 0;
+    right: 0;
+    margin: 0px;
+    padding: 0px;    
+    
+}
+ul li
+{
+    margin: 0px;
+    padding: 0px;
+    
+}
+    
+
+.logo img
+{
+    width: 60px;
+    height: 60px;
+    margin: 0px 0px;
+}
+.navitem a
+{
+    margin: 2px 2px;
+    font-size: 1rem;
+    padding:  2px 5px;
+    
+}
+
+/* home section start  */
+
+#home
+{
+    height: 690px;
+}
+#home p
+{
+    
+    font-size: 1.1rem;
+    margin: 10px;
+    
+}
+.btn
+{
+    padding: 3px 10px;
+    margin: 4px;
+    border: 3px solid black;
+    border-radius: 13px;
+    font-size: 0.8rem;
+    width: 90px;
+   
+}
+
+/* section Part also End */
+#services .box
+{   
+    border: 3px solid red;
+    margin: 14px;
+    padding: 1px;
+    background: rgb(221, 215, 215);
+    border-radius: 13px;
+    
+}
+/* client-section */
+
+#client-section
+{
+    height: auto;
+    position: relative;
+    
+}
+.client-item
+{
+    padding: 3px;
+    margin: 3px;
+}
+.client
+{
+    flex-wrap: wrap;
+}
+.client-item img
+{
+    height: 100px;
+    
+}
+
+/* contact-us start  */
+
+#contact-us
+{
+    height: auto;
+    
+}
+/* footer  */
+footer div img
+{
+    height: 20px;
+}
+.footer
+{
+    
+    height: auto;
+}
+.mainfooter
+{
+    font-size: 0.5rem;   
+}
+.mainhead
+{
+    font-size: 0.8rem;
+    padding: 2px;
+    margin: 2px;
+}
+div .letter button
+{
+    width: 40px;
+    height: 10px; 
+    margin: 4px 2px 4px 20px; 
+    border-radius: 13px; 
+    font: 0.3rem sans-serif;
+    
+}
+div .letter input
+{
+    height: 15px;
+    width: 70px;
+    margin: 8px 2px 4px 20px;
+    border-radius: 12px;
+    padding: 4px 6px 4px 10px;
+    font: 0.3rem sans-serif;
+    
+}
+div .letter label
+{
+    margin: 2px 20px 2px 24px;
+    font-size: 0.3rem;
+}
+div .cpy
+{
+    margin: 30px 0px 20px -13px;
+    font-size: 0.6rem;
+    font-family: 'Roboto Slab', serif;
+}
+
+
+/* Ulitily Item  */
+.h-primary
+{
+    padding: 2px;
+    font-size: 2rem;
+    font-family: 'Roboto Slab', serif;
+    
+}
+.h-secondary
+{
+    
+    padding: 2px;
+    font-size: 1.2rem;
+}
+
+#services
+{
+    flex-direction: column;
+}
+.lastfooter img
+{
+    margin: 25px 4px 20px 4px;
+}
+div .socail
+{
+    
+    right: 10px;
+}
+div .socail a img
+{
+    height: 15px;
+}
+div.cpy
+{
+    margin-left: 3px;
+}
+.cpy1 img
+{
+    margin-left: 10px;
+}
+
